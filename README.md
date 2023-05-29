@@ -1,4 +1,3 @@
-# Ariac2023-Kitting
 ENPM809E Final Project
 # ARIAC Kitting Task
 
