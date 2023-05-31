@@ -26,7 +26,7 @@ The main components of the project include:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ariac-kitting-task.git
+git clone https://github.com/kiranajith/ariac-kitting-task.git
 ```
 2. Build the Package
 ```bash
